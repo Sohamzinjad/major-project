@@ -41,3 +41,4 @@ Flash MicroPython to the Pico, then copy `firmware/main.py` onto the board with 
 - Keep propellers off during bench testing.
 - Confirm idle state produces safe low throttle before connecting to the remote or drone.
 - Test both laptop-side and firmware-side failsafes before any flight attempt.
+# major-project
